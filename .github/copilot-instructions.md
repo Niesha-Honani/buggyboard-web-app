@@ -1,3 +1,9 @@
+---
+description: Read and follow BuggyBoard specs when working on the app
+applyTo: "**/*"
+alwaysApply: true
+---
+
 # BuggyBoard: Use Specs as Context
 
 When working on the **BuggyBoard** web app (bug tracker SUT for the Playwright course):
